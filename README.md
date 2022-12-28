@@ -24,7 +24,7 @@ Password : `cityslicka`
 
 ## Visualização
 
-<a href="https://brenok25.github.io/Formulario-de-login/form-login/index.html" target="blank"> Abrir projeto </a>
+<a href="https://brenok25.github.io/Formulario-de-login/form-login/index.html" target="_blank"> Abrir projeto </a>
 
 ## Autor
 

@@ -12,6 +12,7 @@
 
 body{
     background: linear-gradient(0deg, rgb(10, 10, 10), rgba(8, 6, 6, 0.836));
+    overflow: hidden;
 }
 
 .login{
@@ -158,8 +159,8 @@ footer a {
     position:absolute;
     top: 0;
     left: 0;
-    width: 100%;
-    height: 100%;
+    width: 95%;
+    height: 99%;
     overflow: hidden;
     z-index: -1;
 }
